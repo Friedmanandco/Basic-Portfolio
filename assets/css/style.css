@@ -2,6 +2,16 @@
 		box-sizing: border-box;
   }
 
+
+
+.googlefonts1 { font-family: 'El Messiri', sans-serif; }
+
+.googlefonts2 { font-family: 'El Messiri', sans-serif;
+font-family: 'Modak', cursive;
+font-size: 34px;
+color: #444
+ }
+
  input#name {
 
  	width: 100%;
@@ -252,7 +262,13 @@ textarea {
 	height: 200px;
 	width: 100%;
   }
-	input [type=submit]
+	input [type=submit] 
+
+
+	.input [type=submit] {
+
+		background-color: #eee;
+	}
 	 
 	 {	
 	background: #4aaaa5;
