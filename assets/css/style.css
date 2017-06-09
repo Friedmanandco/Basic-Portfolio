@@ -33,6 +33,7 @@ input#email {
 }
 
 
+
   
 .container {
 width: 100%;
@@ -245,7 +246,7 @@ opacity: .8 }
 	}
 
 label, 
-input [type=text] {}
+input [type=text] 
 
 
 input [type=email],
@@ -265,8 +266,7 @@ textarea {
 	
 
 
-	input[type=submit]{
-	 background-color: gray;
+	input[type=submit]
 
 
 	}
