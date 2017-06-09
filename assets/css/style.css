@@ -9,7 +9,7 @@
 .googlefonts2 { font-family: 'El Messiri', sans-serif;
 font-family: 'Modak', cursive;
 font-size: 34px;
-color: #444
+color: #777
  }
 
  input#name {
@@ -262,23 +262,22 @@ textarea {
 	height: 200px;
 	width: 100%;
   }
-	input [type=submit] 
+	
 
 
-	.input [type=submit] {
+	input[type=submit]{
+	 background-color: gray;
 
-		background-color: #eee;
+
 	}
+
+	input[type=submit]:hover { 
+		background-color: white;
+
+	}
+
+	
 	 
-	 {	
-	background: #4aaaa5;
-	border: 0 none;
-	color: #fff;
-	font-size: 18px;
-	padding: 10px 30;
-	cursor: pointer;
-	}
-
 
 
 
